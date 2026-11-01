@@ -548,13 +548,3 @@ Complete end-to-end reproducibility, including software-version verification, da
 [5] Zhang Z, Wayment-Steele HK, Brixi GK, et al. Protein language models learn evolutionary statistics of interacting sequence motifs. *Proceedings of the National Academy of Sciences*. 2024;121(45):e2406285121. https://doi.org/10.1073/pnas.2406285121
 
 ---
-
-### Manuscript preparation notes — remove before submission
-
-- Verify the exact protein sequence source, version, and sequence-composition feature definition against the project scripts.
-- Confirm the source dataset's chemical-score semantics, preprocessing, and full citation.
-- Audit the cross-study transfer gene alignment and possible condition dependencies.
-- Resolve ridge-regression numerical conditioning warnings.
-- Verify model comparisons with appropriate paired uncertainty estimates.
-- Add complete software versions, repository details, author declarations, and any journal-required statements.
-- Expand the literature review and verify novelty before selecting a journal.
