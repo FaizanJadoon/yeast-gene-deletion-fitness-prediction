@@ -1,0 +1,82 @@
+{
+  "created_utc": "2026-10-25T21:25:34.327724+00:00",
+  "source": "GSE46145",
+  "normalization": "Matched-pool log2 intensity change per generation, barcode-wise median centering, gene-wise median aggregation, and subtraction of mean YPD controls",
+  "fitness_type": "relative_barcode_derived_proxy",
+  "biological_validation_status": "PENDING",
+  "pool_map_zero_based": {
+    "5": 0,
+    "6": 0,
+    "7": 1,
+    "8": 0,
+    "9": 0,
+    "10": 1,
+    "11": 2,
+    "12": 3,
+    "13": 4,
+    "19": 14,
+    "20": 15,
+    "21": 15,
+    "22": 14,
+    "23": 15,
+    "24": 15,
+    "25": 16,
+    "26": 17,
+    "27": 18
+  },
+  "replicate_quality": {
+    "HIP_YPD": {
+      "replicate_spearman": [
+        0.7248271564315728,
+        0.4950703409394649,
+        0.49728728340531964
+      ],
+      "median_replicate_spearman": 0.49728728340531964
+    },
+    "HIP_Phase_I": {
+      "replicate_spearman": [
+        0.7214055108843047,
+        0.5312178932527187,
+        0.5620939460706449
+      ],
+      "median_replicate_spearman": 0.5620939460706449,
+      "genes_with_3_replicates": 5856
+    },
+    "HIP_Phase_II": {
+      "replicate_spearman": [
+        0.1899391940550442,
+        0.23541174938962775,
+        0.19162282125343835
+      ],
+      "median_replicate_spearman": 0.19162282125343835,
+      "genes_with_3_replicates": 5856
+    },
+    "HOP_YPD": {
+      "replicate_spearman": [
+        0.6662516186845071,
+        0.4855788799714871,
+        0.7928305991719552
+      ],
+      "median_replicate_spearman": 0.6662516186845071
+    },
+    "HOP_Phase_I": {
+      "replicate_spearman": [
+        0.6608571018078299,
+        0.6548631612714855,
+        0.8436675050177916
+      ],
+      "median_replicate_spearman": 0.6608571018078299,
+      "genes_with_3_replicates": 5856
+    },
+    "HOP_Phase_II": {
+      "replicate_spearman": [
+        0.31869329426408854,
+        0.3006884764296023,
+        0.329558470477259
+      ],
+      "median_replicate_spearman": 0.31869329426408854,
+      "genes_with_3_replicates": 5856
+    }
+  },
+  "gene_count": 5856
+}

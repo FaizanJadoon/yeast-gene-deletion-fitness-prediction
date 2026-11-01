@@ -1,0 +1,19 @@
+{
+  "created_utc": "2026-10-27T18:03:23.012406+00:00",
+  "seed": 2026,
+  "n_splits": 5,
+  "test_size": 0.2,
+  "alphas": [
+    0.1,
+    1.0,
+    10.0,
+    100.0,
+    1000.0
+  ],
+  "max_conditions": 60,
+  "split_method": "MMseqs2 homology-cluster GroupShuffleSplit",
+  "model_selection": "inner GroupKFold",
+  "chemical_data": "D:\\research\\Faizan\\paper-3\\data\\raw\\HOP_scores_1.txt",
+  "chemical_sha256": "99b386a84384eae847657ed41bf222c9550a87ef961f0ab191833c918771ffd7",
+  "note": "Chemical prediction is a 60-condition pilot. Cross-study target associations are descriptive and are not fermentation-trained model transfer."
+}

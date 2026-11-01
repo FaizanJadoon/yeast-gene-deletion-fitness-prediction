@@ -1,0 +1,11 @@
+{
+  "sequence_hash": "a01a8d975d79cab77096530d4a58d82c0b08bb67ec0636aaf52c34f9c256f282",
+  "kmer_size": 3,
+  "neighbors": 20,
+  "cosine_threshold": 0.65,
+  "n_groups": 4385,
+  "largest_group": 9,
+  "singleton_groups": 4299,
+  "method": "TF-IDF 3-mer cosine nearest-neighbor graph",
+  "warning": "This is an approximate sequence-composition similarity sensitivity analysis. It does not establish absence of protein homology."
+}

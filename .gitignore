@@ -1,0 +1,65 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw research datasets
+/data/raw/
+
+# Local metadata and intermediate datasets
+/data/metadata/
+/data/processed/
+
+# Pretrained model caches and weights
+/models/hf_cache/
+/models/**/*.bin
+/models/**/*.safetensors
+/models/**/*.pt
+/models/**/*.pth
+
+# Large generated embeddings
+/results/embeddings/
+
+# Large homology intermediate files
+/results/homology/clusters_all_seqs.fasta
+/results/homology/clusters_rep_seq.fasta
+/results/homology/tmp/
+
+# Large prediction archive
+/results/final_experiments/chemical_predictions.csv.gz
+
+# Runtime logs and temporary files
+/logs/
+*.log
+*.tmp
+*.bak
+
+# Manuscript working documents
+*.docx
+*.doc
+~$*
+
+# Local credentials and environment variables
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Compressed raw archives
+*.tar
+*.tar.gz
+*.zip
+*.7z
+
+# Local binaries
+/tools/mmseqs2/

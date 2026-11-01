@@ -1,0 +1,12 @@
+{
+  "barcode_rows": 12669,
+  "sample_count": 28,
+  "systematic_genes": 5856,
+  "example_rows": [
+    "\"YAL001C::chr1_1:uptag\"\t838.05\t1172.7\t182.325\t48.5667\t82.9\t784.0333\t717.2111\t1051.3333\t859.3333\t846.5444\t836.3417\t295.3333\t264.0333\t41.6667\t162.3875\t124.2\t63.06",
+    "\"YAL002W::chr1_1:uptag\"\t2114.1\t2297.3\t251.4389\t211.5583\t59.3333\t2182.0222\t2232.5167\t2283.3\t2391.3417\t2075.6444\t1902.9333\t71.4333\t321.0083\t307.2333\t824.9375\t585.",
+    "\"YAL003W::chr1_1:uptag\"\t309.2625\t503.9\t49\t40.975\t33.775\t234.4\t259.4056\t306.6167\t155.4167\t202.3833\t232.5389\t128.2333\t37.6667\t39.1\t46.35\t46.15\t43.85\t44.4917\t38.5"
+  ],
+  "label_status": "NOT_DERIVED",
+  "warning": "Microarray intensities are not fitness scores. Initial pools, HIP/HOP, controls, replicate normalization and barcode aggregation must be resolved before model training."
+}

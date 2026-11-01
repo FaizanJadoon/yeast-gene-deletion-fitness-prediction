@@ -1,0 +1,15 @@
+{
+  "created_utc": "2026-10-25T21:22:43.227790+00:00",
+  "project": "Faizan Paper 3",
+  "total_protein_mappings": 6035,
+  "shared_experimental_genes": 4853,
+  "shared_genes_with_protein_sequences": 4491,
+  "mapping_coverage_percent": 92.54,
+  "hop_adjusted_experiments": 5808,
+  "fermentation_samples": 28,
+  "fermentation_fitness_labels_validated": false,
+  "chemical_score_semantics_validated": false,
+  "model_training_authorized": false,
+  "protein_mapping_sha256": "825b407f9381eac481b46997c90f3bcf9793734830111db55c056a7f04fc34dc",
+  "cohort_output": "data\\processed\\research_cohort.parquet"
+}

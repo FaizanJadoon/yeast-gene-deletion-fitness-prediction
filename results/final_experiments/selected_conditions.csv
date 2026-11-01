@@ -1,0 +1,61 @@
+column,experiment_id,concentration,assay_id,n_measured
+Ad. scores for Exp. 2_200_HOP_0020A,2,200,HOP_0020A,4056
+Ad. scores for Exp. 182_180.034_HOP_0090,182,180.034,HOP_0090,4075
+Ad. scores for Exp. 397_0.1_HOP_0100,397,0.1,HOP_0100,4065
+Ad. scores for Exp. 692_17.88_HOP_0044,692,17.88,HOP_0044,4099
+Ad. scores for Exp. 875_48.37_HOP_0018B,875,48.37,HOP_0018B,4066
+Ad. scores for Exp. 1002_6_HOP_0184,1002,6,HOP_0184,4101
+Ad. scores for Exp. 1106_100_HOP_0138,1106,100,HOP_0138,4052
+Ad. scores for Exp. 1232_32_HOP_0035,1232,32,HOP_0035,4095
+Ad. scores for Exp. 1302_0.266_HOP_0039,1302,0.266,HOP_0039,4057
+Ad. scores for Exp. 1338_200_HOP_0138,1338,200,HOP_0138,4052
+Ad. scores for Exp. 1416_13.427_HOP_0045,1416,13.427,HOP_0045,4075
+Ad. scores for Exp. 1499_0.448_HOP_0049,1499,0.448,HOP_0049,4098
+Ad. scores for Exp. 1967_2_HOP_0053,1967,2,HOP_0053,4067
+Ad. scores for Exp. 2200_75_HOP_0110,2200,75,HOP_0110,4050
+Ad. scores for Exp. 2406_15_HOP_0072,2406,15,HOP_0072,4069
+Ad. scores for Exp. 2579_100_HOP_0098,2579,100,HOP_0098,4072
+Ad. scores for Exp. 2754_168.608_HOP_0078,2754,168.608,HOP_0078,4073
+Ad. scores for Exp. 2841_10_HOP_0108,2841,10,HOP_0108,4061
+Ad. scores for Exp. 3112_4_HOP_0094,3112,4,HOP_0094,4044
+Ad. scores for Exp. 3388_35_HOP_0124,3388,35,HOP_0124,4074
+Ad. scores for Exp. 3646_3_HOP_0159,3646,3,HOP_0159,4107
+Ad. scores for Exp. 4016_70000_HOP_0126,4016,70000,HOP_0126,4094
+Ad. scores for Exp. 4146_2.5_HOP_0140,4146,2.5,HOP_0140,4107
+Ad. scores for Exp. 4284_55_HOP_0150,4284,55,HOP_0150,4092
+Ad. scores for Exp. 4461_600_HOP_0184,4461,600,HOP_0184,4101
+Ad. scores for Exp. 4886_50_HOP_0157,4886,50,HOP_0157,4085
+Ad. scores for Exp. 5192_4_HOP_0166,5192,4,HOP_0166,4039
+Ad. scores for Exp. 5323_18_HOP_0176,5323,18,HOP_0176,4079
+Ad. scores for Exp. 5483_10_HOP_0176,5483,10,HOP_0176,4079
+Ad. scores for Exp. 5700_80_HOP_0188,5700,80,HOP_0188,4065
+Ad. scores for Exp. 107_0.1_HOP_0118 z-score,107,0.1,HOP_0118 z-score,4170
+Ad. scores for Exp. 270_2.2_HOP_0020A z-score,270,2.2,HOP_0020A z-score,4056
+Ad. scores for Exp. 513_5_HOP_0114 z-score,513,5,HOP_0114 z-score,4093
+Ad. scores for Exp. 789_150_HOP_0102 z-score,789,150,HOP_0102 z-score,4062
+Ad. scores for Exp. 956_25.28_HOP_0020B z-score,956,25.28,HOP_0020B z-score,4057
+Ad. scores for Exp. 1042_7.3_HOP_0027 z-score,1042,7.3,HOP_0027 z-score,4105
+Ad. scores for Exp. 1207_200_HOP_0029 z-score,1207,200,HOP_0029 z-score,4113
+Ad. scores for Exp. 1266_200_HOP_0038 z-score,1266,200,HOP_0038 z-score,4060
+Ad. scores for Exp. 1321_0.2_HOP_0070 z-score,1321,0.2,HOP_0070 z-score,4067
+Ad. scores for Exp. 1384_10.857_HOP_0043 z-score,1384,10.857,HOP_0043 z-score,4080
+Ad. scores for Exp. 1446_200_HOP_0061 z-score,1446,200,HOP_0061 z-score,4051
+Ad. scores for Exp. 1542_2.702_HOP_0057 z-score,1542,2.702,HOP_0057 z-score,4061
+Ad. scores for Exp. 2126_0.652_HOP_0076 z-score,2126,0.652,HOP_0076 z-score,4084
+Ad. scores for Exp. 2342_5.936_HOP_0072 z-score,2342,5.936,HOP_0072 z-score,4069
+Ad. scores for Exp. 2540_25_HOP_0104 z-score,2540,25,HOP_0104 z-score,4068
+Ad. scores for Exp. 2650_150_HOP_0088 z-score,2650,150,HOP_0088 z-score,4047
+Ad. scores for Exp. 2806_70_HOP_0148 z-score,2806,70,HOP_0148 z-score,4066
+Ad. scores for Exp. 3047_1.1_HOP_0086 z-score,3047,1.1,HOP_0086 z-score,4046
+Ad. scores for Exp. 3311_20_HOP_0159 z-score,3311,20,HOP_0159 z-score,4107
+Ad. scores for Exp. 3533_180_HOP_0144 z-score,3533,180,HOP_0144 z-score,4097
+Ad. scores for Exp. 3712_50_HOP_0136 z-score,3712,50,HOP_0136 z-score,4007
+Ad. scores for Exp. 4080_1_HOP_0164 z-score,4080,1,HOP_0164 z-score,4071
+Ad. scores for Exp. 4211_200_HOP_0146 z-score,4211,200,HOP_0146 z-score,4067
+Ad. scores for Exp. 4382_0.05_HOP_0159 z-score,4382,0.05,HOP_0159 z-score,4107
+Ad. scores for Exp. 4650_12_HOP_0161 z-score,4650,12,HOP_0161 z-score,4057
+Ad. scores for Exp. 4987_15_HOP_0168 z-score,4987,15,HOP_0168 z-score,4075
+Ad. scores for Exp. 5247_35_HOP_0176 z-score,5247,35,HOP_0176 z-score,4079
+Ad. scores for Exp. 5416_6_HOP_0182 z-score,5416,6,HOP_0182 z-score,4057
+Ad. scores for Exp. 5635_75_HOP_0186 z-score,5635,75,HOP_0186 z-score,4075
+Ad. scores for Exp. 1129_60_HOP_0251 z-score,1129,60,HOP_0251 z-score,4080

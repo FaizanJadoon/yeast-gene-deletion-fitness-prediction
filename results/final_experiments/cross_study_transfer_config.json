@@ -1,0 +1,25 @@
+{
+  "seed": 2026,
+  "bootstrap_resamples": 5000,
+  "analysis": "Out-of-sample fermentation prediction versus observed chemical response",
+  "fermentation_predictions": "D:\\research\\Faizan\\paper-3\\results\\tables\\homology_predictions.parquet",
+  "chemical_observations": "D:\\research\\Faizan\\paper-3\\results\\final_experiments\\chemical_predictions.csv.gz",
+  "conditions": 60,
+  "models": [
+    "Sequence_Composition",
+    "ESM2_8M",
+    "ESM2_35M",
+    "ESM2_150M",
+    "ESM2_650M"
+  ],
+  "targets": [
+    "HOP_Phase_I_mean",
+    "HOP_Phase_II_mean"
+  ],
+  "limitations": [
+    "Chemical conditions may not be statistically independent.",
+    "Only the previously selected 60-condition pilot is evaluated.",
+    "Fermentation and chemical response have different endpoint definitions.",
+    "No model is trained on chemical outcomes in this transfer analysis."
+  ]
+}

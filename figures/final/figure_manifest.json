@@ -1,0 +1,24 @@
+{
+  "figures": [
+    "figure_01_fermentation",
+    "figure_02_chemical",
+    "figure_03_scaling",
+    "figure_04_transfer"
+  ],
+  "formats": [
+    "png",
+    "pdf"
+  ],
+  "source_files": [
+    "D:\\research\\Faizan\\paper-3\\results\\tables\\homology_results.csv",
+    "D:\\research\\Faizan\\paper-3\\results\\final_experiments\\chemical_prediction_results.csv",
+    "D:\\research\\Faizan\\paper-3\\results\\final_experiments\\cross_study_transfer_bootstrap.csv"
+  ],
+  "notes": [
+    "Fermentation error bars show across-split standard deviations.",
+    "Chemical boxplots summarize condition-level means.",
+    "Transfer confidence intervals use condition-level bootstrap.",
+    "Transfer results represent associations, not chemical-model calibration.",
+    "The selected chemical conditions may be dependent."
+  ]
+}

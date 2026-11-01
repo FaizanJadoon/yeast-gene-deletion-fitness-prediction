@@ -1,0 +1,29 @@
+{
+  "seed": 42,
+  "repeats": 5,
+  "test_fraction": 0.2,
+  "models": [
+    "Sequence_Composition",
+    "ESM2_8M",
+    "ESM2_35M",
+    "ESM2_150M",
+    "ESM2_650M"
+  ],
+  "targets": [
+    "HOP_Phase_I_mean",
+    "HOP_Phase_II_mean"
+  ],
+  "sequence_group_method": "3-mer TF-IDF cosine graph, approximate only",
+  "sequence_similarity_threshold": 0.65,
+  "ridge_solver": "lsqr",
+  "ridge_alpha_selection": "training-only 3-fold CV",
+  "limitations": [
+    "Sequence groups are not validated homology clusters",
+    "Nearest-neighbor search may miss homologous pairs",
+    "Inner CV is not group-aware",
+    "Only five repeated splits are evaluated",
+    "Saved ESM embeddings truncate long proteins",
+    "Experimental fitness labels remain provisional"
+  ],
+  "python_version": "3.12.4"
+}

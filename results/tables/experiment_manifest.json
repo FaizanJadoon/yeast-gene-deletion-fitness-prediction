@@ -1,0 +1,29 @@
+{
+  "created_utc": "2026-10-25T21:31:30.802208+00:00",
+  "seed": 42,
+  "test_size": 0.2,
+  "device": "cuda",
+  "torch_version": "2.9.1+cu128",
+  "python_version": "3.12.4",
+  "models": {
+    "ESM2_8M": "facebook/esm2_t6_8M_UR50D",
+    "ESM2_35M": "facebook/esm2_t12_35M_UR50D",
+    "ESM2_150M": "facebook/esm2_t30_150M_UR50D",
+    "ESM2_650M": "facebook/esm2_t33_650M_UR50D"
+  },
+  "targets": [
+    "HOP_Phase_I_mean",
+    "HOP_Phase_II_mean"
+  ],
+  "max_residues": 1022,
+  "long_sequence_handling": "first_1022_residues",
+  "split_type": "random_gene_held_out",
+  "label_status": "provisional_barcode_derived",
+  "limitations": [
+    "Random gene split does not control protein homology",
+    "Long protein sequences are truncated",
+    "Fitness labels require biological validation",
+    "Chemical perturbation transfer not evaluated here",
+    "Only frozen pretrained embeddings are evaluated"
+  ]
+}
